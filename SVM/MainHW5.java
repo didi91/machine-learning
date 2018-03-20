@@ -1,11 +1,5 @@
 package HomeWork5;
-/**
-Didi Jungreisz
-304993553
-    &
-Barak Gelman
-204038756
-**/
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
