@@ -1,4 +1,3 @@
-// HomeWork1- Didi Jungreisz 304993553 & Barak Gelman 204038756
 package HomeWork1;
 
 import java.io.BufferedReader;
